@@ -11,6 +11,7 @@ import 'animate.css/animate.min.css';
 
 // Web projects
 const cardItem = [
+  {/*
   {
     link: 'https://bookheap-app.netlify.app/',
     title: 'Online Book Store',
@@ -39,6 +40,7 @@ const cardItem = [
     desc: 'Shopping store built with React and Redux',
     image: shopping
   },
+  */},
   {
     link: 'https://meal-dash-amit.netlify.app',
     title: 'Meal Dash',
@@ -95,12 +97,7 @@ export default function Projects() {
             return getProjectCard(item);
           })}
         </ul>
-        {/* <h2 className={classes.heading}>ANDROID APP PROJECTS</h2>
-        <ul className={classes.cards}>
-          {cardItemApps.map((item) => {
-            return getProjectCard(item);
-          })}
-        </ul> */}
+        
       </ScrollAnimation>
     </div>
   );

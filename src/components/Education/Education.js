@@ -40,7 +40,7 @@ class Education extends Component {
                       </h2>
                       <p>
                         I completed my Post Graduation in MCA(Master of Computer Application)
-                        from <a href='https://bit-bangalore.edu.in/'>MCA</a> with overall 7.6 CGPA.
+                        from <a href='https://bit-bangalore.edu.in/'>MCA</a> with overall 8.1 CGPA.
                       </p>
                     </div>
                   </article>
@@ -58,11 +58,11 @@ class Education extends Component {
                         </div>
                         <div className={classes.label}>
                           <h2>
-                            Undergraduation at Marwari College Bhagalpur Bihar <span>2017-2021</span>
+                            Undergraduation KLE's SSMS BCA College Athani <span>2018-2021</span>
                           </h2>
                           <p>
                             I completed my undergraduation in BCA(Bachelor of Computer Application)
-                            from <a href='https://www.marwaricollegebgp.ac.in/'>BCA</a> with overall 70.25%.
+                            from <a href='https://www.marwaricollegebgp.ac.in/'>BCA</a> with overall 81%.
                           </p>
                         </div>
                       </article>
@@ -80,11 +80,11 @@ class Education extends Component {
                         </div>
                         <div className={classes.label}>
                           <h2>
-                            Higher Education <span>2015-2017</span>
+                            Higher Education <span>2016-2018</span>
                           </h2>
                           <p>
-                            I have completed my higher education From Bhagalpur National college Bhagalpur with major subjects as
-                            Physics,Chemistry & Maths.{' '}
+                            I have completed my higher education From Banajwad recidencial Pu College with major subjects as
+                            Physics,Chemistry,Boilogy & Maths.{' '}
                           </p>
                         </div>
                       </article>

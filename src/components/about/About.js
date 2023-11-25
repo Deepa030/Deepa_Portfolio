@@ -18,7 +18,7 @@ class About extends Component {
           <h2 className={classes.heading}>Who Am I?</h2>
           <div className={classes.About}>
             <p>
-              My name is <b>DEEPAK KUMAR SHARMA</b> 
+              My name is <b>Deepa B Madagudi</b> 
               . I completed my degree in Master of Computer Application from Bangalore Institute of technology. I am much interested in
               developing new things which excite me a lot. :)
             </p>

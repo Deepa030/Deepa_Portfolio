@@ -4,7 +4,7 @@
   height: 100vh;
   /* margin-top: -50px; */
   width: 100%;
-  background-color: #f2f3f7;
+  background-color: #c8cbd5;
   overflow-y: scroll;
   text-align: center;
 }
@@ -58,7 +58,7 @@
 }
 .fa-lg {
   text-decoration: none;
-  color: red;
+  color: rgb(29, 81, 135);
 }
 
 .links:hover {

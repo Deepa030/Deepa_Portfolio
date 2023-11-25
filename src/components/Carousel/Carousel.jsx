@@ -28,9 +28,9 @@ class CarouselImages extends Component {
           <div className={classes.image_container}>
             <img className={classes.image} src={Hello} alt='myImage' />
             <div className={classes.h1}>
-              <h1>I'm Deepak Kumar Sharma</h1>
+              <h1>I'm Deepa B Madagudi</h1>
               <a
-                href='https://drive.google.com/file/d/1JMHzQt43WfRPVwFLZ7-_25LuPH72uOwE/view?usp=drive_link'
+                href='https://drive.google.com/file/d/1NmauUo9S5zO7PBXJVTAmxAyavuVSv3CB/view'
                 rel='opener noreferrer'
                 target='_blank'
               >
@@ -44,7 +44,7 @@ class CarouselImages extends Component {
               <h1> I love building</h1>
               <h1>THINGS!!</h1>
               <a
-                href='https://github.com/Deepak8051'
+                href='https://github.com/Deepa030'
                 rel='opener noreferrer'
                 target='_blank'
               >
@@ -52,7 +52,7 @@ class CarouselImages extends Component {
               </a>
               <div className={classes.secondButton}>
                 <a
-                  href='https://github.com/Deepak8051'
+                  href='https://github.com/Deepa030'
                   rel='opener noreferrer'
                   target='_blank'
                 >

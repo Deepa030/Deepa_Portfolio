@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Sidebar.css';
 import { HashLink as Link } from 'react-router-hash-link';
-import logo from '../images/deepak.jpg';
+import logo from '../images/Deepa.jpeg';
 
 class Sidebar extends Component {
   render() {
@@ -18,13 +18,13 @@ class Sidebar extends Component {
         </div>
         <h1>
           <Link smooth to='/#start' className='h1_links'>
-            Deepak Kumar Sharma
+            Deepa B Madagudi
           </Link>
         </h1>
 
         <img src={logo} />
         <p style={{ color: 'black', fontWeight: 'bold' }} className='gmail'>
-          dsharma813101@gmail.com
+          deepa.madagudi@gmail.com
         </p>
 
         <ul className='sidebar-nav'>
@@ -48,30 +48,39 @@ class Sidebar extends Component {
               Education
             </Link>
           </li>
-          {/* <li className="sidebar-nav-items"><a href="http://www.bloggingpeek.com" target="_blank" rel="opener noreferrer" className="links"> Blog<FiExternalLink/></a></li> */}
+          
         </ul>
 
         <div className='flip-card-back'>
           <ul className='sidebar-nav'>
             <li className='sidebar-nav-icons'>
               <a
-                href='https://github.com/Deepak8051'
+                href='https://github.com/Deepa030'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-github fa-lg'
               ></a>
             </li>
-            <li className='sidebar-nav-icons'>
+          <li className='sidebar-nav-icons'>
               <a
-                href='https://www.linkedin.com/in/deepak-kumar-sharma-559564221/'
+                href='https://www.linkedin.com/in/deepa-madagudi-a852811b7/'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-linkedin fa-lg'
               ></a>
             </li>
+          
             <li className='sidebar-nav-icons'>
               <a
-                href='https://twitter.com/DeepakK95365884'
+                href='https://www.instagram.com/__d_i_i_p_s__/?next=%2F'
+                rel='opener noreferrer'
+                target='_blank'
+                className='fa fas fa-instagram fa-lg'
+              ></a>
+             </li>
+             <li className='sidebar-nav-icons'>
+              <a
+                href='https://twitter.com/Deepa46445793'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-twitter fa-lg'
@@ -79,15 +88,7 @@ class Sidebar extends Component {
             </li>
             <li className='sidebar-nav-icons'>
               <a
-                href='https://www.instagram.com/deepak042//'
-                rel='opener noreferrer'
-                target='_blank'
-                className='fa fas fa-instagram fa-lg'
-              ></a>
-            </li>
-            <li className='sidebar-nav-icons'>
-              <a
-                href='mailto:dsharma813101@gmail.com'
+                href='deepa.madagudi@gmail.com'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-envelope fa-lg'
@@ -95,7 +96,7 @@ class Sidebar extends Component {
             </li>
             <li className='sidebar-nav-icons'>
               <a
-                href='https://www.facebook.com/virat042'
+                href='https://www.facebook.com/deepa.madagudi'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-facebook fa-lg'
