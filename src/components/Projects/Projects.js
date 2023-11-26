@@ -11,7 +11,7 @@ import 'animate.css/animate.min.css';
 
 // Web projects
 const cardItem = [
-  {/*
+  
   {
     link: 'https://bookheap-app.netlify.app/',
     title: 'Online Book Store',
@@ -19,6 +19,7 @@ const cardItem = [
     desc: 'It is a book selling web app built in a MERN stack . You can sell books by uploading images and can also see what others are selling.',
     image: bookheap
   },
+  {/*
   {
     link: 'https://chess-web-online.netlify.app/',
     title: 'Realtime Online Chess',
@@ -26,6 +27,7 @@ const cardItem = [
     desc: 'Play real time chess with your friends online by sharing a link.',
     image: chess
   },
+  
   {
     link: 'https://travel-log-frontend-two.vercel.app/',
     title: 'Travel Log',
@@ -40,7 +42,7 @@ const cardItem = [
     desc: 'Shopping store built with React and Redux',
     image: shopping
   },
-  */},
+  
   {
     link: 'https://meal-dash-amit.netlify.app',
     title: 'Meal Dash',
@@ -55,7 +57,7 @@ const cardItem = [
     desc: 'Get All latest Movies and Trailers Also can play trailers videos and can add favourite movies',
     image: movie
   }
- 
+*/}
 ];
 
 export default function Projects() {

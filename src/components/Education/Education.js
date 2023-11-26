@@ -39,8 +39,8 @@ class Education extends Component {
                         Post Graduation at Bangalore Institute of technology <span>2021-2023</span>
                       </h2>
                       <p>
-                        I completed my Post Graduation in MCA(Master of Computer Application)
-                        from <a href='https://bit-bangalore.edu.in/'>MCA</a> with overall 8.1 CGPA.
+                        I completed my Post Graduation in 
+                        <a href='https://bit-bangalore.edu.in/'>  MCA(Master of Computer Application)</a>,with overall 8.1 CGPA.
                       </p>
                     </div>
                   </article>
@@ -62,7 +62,7 @@ class Education extends Component {
                           </h2>
                           <p>
                             I completed my undergraduation in BCA(Bachelor of Computer Application)
-                            from <a href='https://www.marwaricollegebgp.ac.in/'>BCA</a> with overall 81%.
+                            , with overall 81%.
                           </p>
                         </div>
                       </article>

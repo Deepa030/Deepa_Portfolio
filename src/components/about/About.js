@@ -14,13 +14,14 @@ class About extends Component {
           animateOnce={true}
           initiallyVisible={true}
         >
-          <span className={classes.head}>ABOUT ME</span>
-          <h2 className={classes.heading}>Who Am I?</h2>
+          <span className={classes.heading}>ABOUT ME</span>
+          {/*<h2 className={classes.heading}>Who Am I?</h2>*/}
           <div className={classes.About}>
             <p>
               My name is <b>Deepa B Madagudi</b> 
-              . I completed my degree in Master of Computer Application from Bangalore Institute of technology. I am much interested in
-              developing new things which excite me a lot. :)
+                                 .  I have a Master's in Computer Application, and I love creating new things. 
+               The excitement of building something from scratch drives me.
+               I'm passionate about exploring fresh ideas and pushing the boundaries of technology. :)
             </p>
             <p className={classes.br}>
               I love exploring new technologies and being a practitioner, I like to stay on top of
